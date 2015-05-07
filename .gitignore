@@ -45,3 +45,4 @@ Temporary Items
 .project
 *.prefs
 target/classes/application.properties
+/target/
