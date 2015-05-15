@@ -1,6 +1,8 @@
 package com.miller.raptcha.domain;
 
-public class VerificationObject {
+import org.springframework.hateoas.ResourceSupport;
+
+public class VerificationObject extends ResourceSupport  {
 
 
 	
